@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Lasercut" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1189.2 842.3" style="enable-background:new 0 0 1189.2 842.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#00FF00;stroke-miterlimit:10;}
+</style>
+<g id="Cut">
+	<line id="XMLID_22_" class="st0" x1="248.7" y1="30.1" x2="248.7" y2="58.3"/>
+	<line id="XMLID_25_" class="st0" x1="276.8" y1="1.9" x2="361.6" y2="1.9"/>
+	<line id="XMLID_26_" class="st0" x1="389.8" y1="30.1" x2="389.8" y2="58.3"/>
+	<line id="XMLID_27_" class="st0" x1="389.8" y1="58.3" x2="714.2" y2="58.3"/>
+	<line id="XMLID_29_" class="st0" x1="770.6" y1="1.9" x2="1024.5" y2="1.9"/>
+	<line id="XMLID_31_" class="st0" x1="1080.9" y1="58.3" x2="1186.7" y2="58.3"/>
+	<line id="XMLID_32_" class="st0" x1="248.7" y1="58.3" x2="30.1" y2="58.3"/>
+	<line id="XMLID_33_" class="st0" x1="824.2" y1="58.3" x2="970.9" y2="58.3"/>
+	<line id="XMLID_35_" class="st0" x1="1.9" y1="86.5" x2="1.9" y2="839.9"/>
+	<line id="XMLID_36_" class="st0" x1="1.9" y1="839.9" x2="1186.7" y2="839.9"/>
+	<line id="XMLID_37_" class="st0" x1="1186.7" y1="839.9" x2="1186.7" y2="58.3"/>
+	<path id="XMLID_17_" class="st0" d="M1.9,86.5c0-15.5,12.6-28.1,28.1-28.1"/>
+	<path id="XMLID_20_" class="st0" d="M248.7,30.1c0-15.5,12.6-28.1,28.1-28.1"/>
+	<path id="XMLID_21_" class="st0" d="M361.6,1.9c15.5,0,28.1,12.6,28.1,28.1"/>
+	<path id="XMLID_1546_" class="st0" d="M770.6,1.9c-31.2,0-56.4,25.3-56.4,56.4"/>
+	<path id="XMLID_53_" class="st0" d="M1080.9,58.3c0-31.2-25.3-56.4-56.4-56.4"/>
+</g>
+<g id="Fold">
+	<line id="XMLID_2_" class="st1" x1="1.9" y1="614.1" x2="1186.7" y2="614.1"/>
+	<line id="XMLID_3_" class="st1" x1="30.1" y1="58.3" x2="30.1" y2="839.8"/>
+	<line id="XMLID_6_" class="st1" x1="608.4" y1="58.3" x2="608.4" y2="839.8"/>
+	<line id="XMLID_7_" class="st1" x1="502.6" y1="58.3" x2="502.6" y2="839.8"/>
+	<line id="XMLID_9_" class="st1" x1="714.2" y1="58.3" x2="714.2" y2="839.8"/>
+	<line id="XMLID_10_" class="st1" x1="608.4" y1="614.1" x2="382.6" y2="839.9"/>
+	<line id="XMLID_11_" class="st1" x1="608.4" y1="614.1" x2="835" y2="840.7"/>
+	<line id="XMLID_12_" class="st1" x1="1186.7" y1="614.1" x2="961.5" y2="839.4"/>
+	<line id="XMLID_13_" class="st1" x1="30.1" y1="614.1" x2="258.5" y2="842.5"/>
+	<line id="XMLID_14_" class="st1" x1="30.1" y1="614.1" x2="1.9" y2="642.3"/>
+	<line id="XMLID_15_" class="st1" x1="1.9" y1="719.9" x2="1186.7" y2="719.9"/>
+	<line id="XMLID_16_" class="st1" x1="135.9" y1="58.3" x2="135.9" y2="839.9"/>
+	<line id="XMLID_19_" class="st1" x1="1080.9" y1="58.3" x2="1080.9" y2="839.9"/>
+	<line id="XMLID_4_" class="st1" x1="248.7" y1="58.3" x2="389.8" y2="58.3"/>
+	<line id="XMLID_5_" class="st1" x1="714.2" y1="58.3" x2="824.2" y2="58.3"/>
+	<line id="XMLID_8_" class="st1" x1="970.9" y1="58.3" x2="1080.9" y2="58.3"/>
+</g>
+</svg>
